@@ -1,0 +1,125 @@
+<div class="m-index">
+  <header>
+    <div>
+
+    </div>
+    <div>
+
+    </div>
+    <div class="yo-ico">
+      &#xe644;
+    </div>
+  </header>
+
+
+  <section spa-widget="scroll">
+    <div class="">
+
+      <!-- banner -->
+      <div class="swiper-container banner">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide">Slide 1</div>
+            <div class="swiper-slide">Slide 2</div>
+            <div class="swiper-slide">Slide 3</div>
+        </div>
+        <!-- 如果需要分页器 -->
+        <div class="swiper-pagination"></div>
+      </div>
+
+      <!-- nav -->
+      <nav class="secChild">
+        <ul>
+          <li class="yo-ico">
+            <div>
+              <i>&#xe626;</i>
+            </div>
+            <b>品牌商家</b>
+          </li>
+          <li class="yo-ico">
+            <div>
+              <i>&#xe611;</i>
+            </div>
+            <b>品牌商家</b>
+          </li>
+          <li class="yo-ico">
+            <div>
+              <i>&#xe643;</i>
+            </div>
+            <b>品牌商家</b>
+          </li>
+          <li class="yo-ico">
+            <div>
+              <i>&#xe632;</i>
+            </div>
+            <b>品牌商家</b>
+          </li>
+        </ul>
+      </nav>
+
+      <div class="picList secChild">
+          <div class="picLeft">
+            <img src="img/rent1.png" alt="" />
+          </div>
+
+          <div class="picRight">
+            <div>
+              <img src="img/vip.png" alt="" />
+            </div>
+            <div>
+              <img src="img/reputation.png" alt="" />
+            </div>
+          </div>
+      </div>
+
+      <div class="brand secChild">
+        <div class="titWrap">
+          <span></span>
+          <h2>
+            品牌分类
+          </h2>
+        </div>
+
+        <div class="">
+          <img src="img/pushchair.png" alt="" />
+        </div>
+        <div class="brandList">
+          <div class="">
+            <img src="img/babyruler.png" alt="" />
+          </div>
+          <div class="">
+            <img src="img/kiwy.png" alt="" />
+          </div>
+          <div class="">
+            <img src="img/babyrulerBed.png" alt="" />
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <footer>
+    <ul>
+      <li class="active">
+        <i class="yo-ico">&#xe657;</i>
+        <b>主页</b>
+      </li>
+      <li>
+        <i class="yo-ico">&#xe674;</i>
+        <b>新品</b>
+      </li>
+      <li>
+        <i class="yo-ico">&#xe64c;</i>
+        <b>口碑</b>
+      </li>
+      <li>
+        <i class="yo-ico">&#xe627;</i>
+        <b>闲置</b>
+      </li>
+      <li>
+        <i class="yo-ico">&#xe601;</i>
+        <b>我的</b>
+      </li>
+    </ul>
+  </footer>
+</div>

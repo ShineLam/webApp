@@ -1,0 +1,25 @@
+$font-heiti-light: Heiti SC Light, Helvetica Neue, Helvetica, STHeiTi, sans-serif;
+$font-heiti-medium: Heiti SC Medium, Heiti SC Light, Helvetica Neue, Helvetica, STHeiTi, sans-serif;
+
+$base-color:  #fe0588;
+.secChild{
+  background: #FFF;
+  margin-bottom: .05rem;
+  padding: 0 .05rem;
+}
+
+
+@font-face {
+  font-family: yofont;
+  src: url("/babyzuche/img/iconfonts/chat.woff") format("woff"), url("/babyzuche/img/iconfonts/chat.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: yofont;
+  src: url("/babyzuche/img/iconfonts/footer.woff") format("woff"), url("/babyzuche/img/iconfonts/footer.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: yofont;
+  src: url("/babyzuche/img/iconfonts/nav.woff") format("woff"), url("/babyzuche/img/iconfonts/nav.ttf") format("truetype");
+}
